@@ -1,0 +1,1 @@
+run('E:\Softs\CSLibs\VLFEAT\toolbox\vl_setup');
